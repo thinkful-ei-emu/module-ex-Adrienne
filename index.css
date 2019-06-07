@@ -49,3 +49,8 @@ button:hover {
 .shopping-item__checked {
   text-decoration: line-through;
 }
+
+#js-search-list-form {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
